@@ -1,7 +1,7 @@
 # Tugas Besar Jaringan
 
-## Adristi Iftitah Yuniar / 02
-## Andhika Utama / 05 
+## Adristi Iftitah Yuniar / TI3H - 02
+## Andhika Utama / TI3H - 05 
 
 ### Client
 ![UAS-Client](UAS-Client.png)
